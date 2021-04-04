@@ -1,5 +1,7 @@
 # PLAYDATA FINAL PROJCET - STACK LIBRARY
 
+<img src="./stack_library.png" />
+
 ## Introduction
 
 STACK LIBRARY는 [Playdata](https://playdata.io/)에서 진행한 최종 팀프로젝트입니다. Tf-idf와 코사인 유사도를 사용한 컨텐츠 기반 필터링 방법을 이용한 소설 추천 서비스를 주제로 프로젝트를 진행했습니다.
