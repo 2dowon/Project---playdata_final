@@ -24,7 +24,7 @@ STACK LIBRARY는 [Playdata](https://playdata.io/)에서 진행한 최종 팀프�
 
 </br>
 
-## 개발환경
+## Stack
 
 - Programming Language : Python 3.7.3
 - WEB : HTML, CSS, JavaScript, Flask 1.1.2
