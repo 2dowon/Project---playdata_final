@@ -33,3 +33,9 @@ STACK LIBRARY는 [Playdata](https://playdata.io/)에서 진행한 최종 팀프�
   - Visual Studio Code 1.43.2
 - DataBase : MySQL 8.0.22
 - Deployment : AWS
+
+</br>
+
+## Presentation
+- [STACK LIBRARY 발표 PPT](https://docs.google.com/presentation/d/1g30tSwl_EkIWgpgB-zVQ1RZYFgaF4kEOq8OuQsbZXlE/edit?usp=sharing)
+- [STACK LIBRARY 시연 영상](https://youtu.be/VAnimJpj30o)
